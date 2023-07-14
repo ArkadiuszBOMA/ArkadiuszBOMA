@@ -14,7 +14,7 @@
 
 ⭐ Technology stack
 
-<img height="100" src="https://skillicons.dev/icons?i=bootstrap,css, flask,git,github,heroku,hibernate,html,java,js,maven,postgres,postman,powershell,py,react,spring&theme=dark"/>
+<img height="100" src="https://skillicons.dev/icons?i=bootstrap,css,flask,git,github,heroku,hibernate,html,java,js,maven,postgres,postman,powershell,py,react,spring&theme=dark"/>
 
 📫 Contact
 bojara.arkadiusz@gmail.com 
